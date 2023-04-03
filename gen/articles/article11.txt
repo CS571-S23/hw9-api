@@ -1,0 +1,21 @@
+New nanocapsules deliver therapy brain-wide, edit Alzheimer’s gene in mice
+https://www.cs571.org/s23/hw9/api/news/images/nanocapsule
+science
+
+Gene therapies have the potential to treat neurological disorders like Alzheimer’s and Parkinson’s diseases, but they face a common barrier — the blood-brain barrier. Now, researchers at the University of Wisconsin–Madison have developed a way to move therapies across the brain’s protective membrane to deliver brain-wide therapy with a range of biological medications and treatments.
+
+“There is no cure yet for many devastating brain disorders,” says Shaoqin “Sarah” Gong, UW–Madison professor of ophthalmology and visual sciences and biomedical engineering and researcher at the Wisconsin Institute for Discovery. “Innovative brain-targeted delivery strategies may change that by enabling noninvasive, safe and efficient delivery of CRISPR genome editors that could, in turn, lead to genome-editing therapies for these diseases.”
+
+CRISPR is a molecular toolkit for editing genes (for example, to correct mutations that may cause disease), but the toolkit is only useful if it can get through security to the job site. The blood-brain barrier is a membrane that selectively controls access to the brain, screening out toxins and pathogens that may be present in the bloodstream. Unfortunately, the barrier bars some beneficial treatments, like certain vaccines and gene therapy packages, from reaching their targets because in lumps them in with hostile invaders.
+
+Injecting treatments directly into the brain is one way to get around the blood-brain barrier, but it’s an invasive procedure that provides access only to nearby brain tissue.
+
+“The promise of brain gene therapy and genome-editing therapy relies on the safe and efficient delivery of nucleic acids and genome editors to the whole brain,” Gong says.
+
+In a study recently published in the journal Advanced Materials, Gong and her lab members, including postdoctoral researcher and first author of the study Yuyuan Wang, describe a new family of nano-scale capsules made of silica that can carry genome-editing tools into many organs around the body and then harmlessly dissolve.
+
+By modifying the surfaces of the silica nanocapsules with glucose and an amino acid fragment derived from the rabies virus, the researchers found the nanocapsules could efficiently pass through the blood-brain barrier to achieve brain-wide gene editing in mice. In their study, the researchers demonstrated the capability of the silica nanocapsule’s CRISPR cargo to successfully edit genes in the brains of mice, such as one related to Alzheimer’s disease called amyloid precursor protein gene.
+
+Because the nanocapsules can be administered repeatedly and intravenously, they can achieve higher therapeutic efficacy without risking more localized and invasive methods.
+
+The researchers plan to further optimize the silica nanocapsules’ brain-targeting capabilities and evaluate their usefulness for the treatment of various brain disorders. This unique technology is also being investigated for the delivery of biologics to the eyes, liver and lungs, which can lead to new gene therapies for other types of disorders.

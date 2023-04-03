@@ -1,0 +1,253 @@
+[
+  {
+    "id": 0,
+    "img": "https://www.cs571.org/s23/hw9/api/news/images/investiture",
+    "title": "UW–Madison to celebrate investiture of Chancellor Jennifer Mnookin with series of special events",
+    "tags": [
+      "chancellor",
+      "campus"
+    ],
+    "body": [
+      "On April 14, in keeping with one of the oldest traditions in academia, Chancellor Jennifer L. Mnookin will be formally welcomed as the University of Wisconsin–Madison’s 30th leader during a ceremony known as an investiture.",
+      "“The installation of a new chancellor is an historic moment for a university,” says Karen Walsh, president of the University of Wisconsin System Board of Regents. “In Chancellor Mnookin, we have a leader who brings great passion, experience and vision to the role. This is an exciting time for our flagship university and an opportunity to celebrate all it has achieved and all the wonderful things still to come.”",
+      "The week of the ceremony will also involve a series of associated events that will highlight UW–Madison’s research, teaching and public service missions; provide opportunities to reflect on the university’s accomplishments and goals; and celebrate the contributions of the entire campus community to the university’s success. Traditionally, an investiture takes place during the first year of new leadership.",
+      "“UW–Madison has so much to be proud of and so many reasons to be excited about the future,” Mnookin says. “Throughout the week, we will be celebrating this extraordinary campus and its history of discovery, excellence and educational opportunity, while also celebrating our community and our connections to this great state.”",
+      "The ceremony will include an address by Mnookin and a formal academic procession of delegates from universities around Wisconsin and the nation, as well as civic and elected officials. A campus community celebration and picnic on Library Mall will follow the investiture ceremony and is open to all students, faculty, staff and guests.",
+      "“It’s important for a great public research institution like UW–Madison to have traditions that honor its past, present and future,” says Wisconsin Foundation and Alumni Association CEO Mike Knetter. “The investiture of Chancellor Mnookin is one of those special occasions. It’s a time for us to come together and build community while looking ahead to the future.”",
+      "Mnookin, whose tenure began Aug. 4, 2022, is a national expert on law, forensic science and evidence, and she has deep experience as an innovative and talented administrator. Before joining UW–Madison, Mnookin was dean of the University of California, Los Angeles School of Law and the Ralph and Shirley Shapiro Professor of Law. Prior to joining UCLA Law, Mnookin was professor of law and Barron F. Black Research Professor at the University of Virginia School of Law. She was also a visiting professor of law at Harvard Law School.",
+      "Since she arrived on campus, Chancellor Mnookin has met with hundreds of people statewide, including community leaders and elected officials, and she delivered an address to the University of Wisconsin System Board of Regents, in which she highlighted the university’s priorities and strengths. There, she also announced a program, Bucky’s Pell Pathway, to meet the full financial need of Wisconsin students from low-income households.",
+      "Most of the investiture-week events will be free and open to the public. Many showcase the tremendous impact that students, faculty, staff and alumni have on the community and beyond. The university’s investiture website has full details."
+    ]
+  },
+  {
+    "id": 1,
+    "img": "https://www.cs571.org/s23/hw9/api/news/images/career",
+    "title": "SuccessWorks helps Letters & Science students translate majors into careers",
+    "tags": [
+      "campus"
+    ],
+    "body": [
+      "Students who study science and history develop critical thinking, writing and lab-based skills that are valuable to employers.",
+      "But sometimes students need guidance on how to match those skills with the right job, and present those skills to a potential employer.",
+      "That’s why SuccessWorks, in the College of Letters & Science, invites students to engage early in the career exploration process.",
+      "The College of Letters & Science is home to the largest, most diverse body of students at UW–Madison, with more than 18,000 undergraduates, and SuccessWorks is helping them get an early start on career preparation. Last year, almost 60% of the students who engaged with SuccessWorks were in their first or second year.",
+      "“Letters & Science majors provide so many career possibilities,” says Angie White, interim executive director of SuccessWorks. “A Letters & Science degree gives students the critical preparation they need to thrive in a rapidly changing global workplace, teaching them communication, critical thinking, leadership and problem-solving skills, all of which we know employers are seeking.”",
+      "SuccessWorks is just one way UW helps students with career planning. Each school or college at UW–Madison has a dedicated career services office with comprehensive career services for students and connections to a vast network of employers. There are around 20 career services offices, including offices that serve all students and alumni regardless of school, college or major."
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://www.cs571.org/s23/hw9/api/news/images/nanocapsule",
+    "title": "New nanocapsules deliver therapy brain-wide, edit Alzheimer’s gene in mice",
+    "tags": [
+      "science"
+    ],
+    "body": [
+      "Gene therapies have the potential to treat neurological disorders like Alzheimer’s and Parkinson’s diseases, but they face a common barrier — the blood-brain barrier. Now, researchers at the University of Wisconsin–Madison have developed a way to move therapies across the brain’s protective membrane to deliver brain-wide therapy with a range of biological medications and treatments.",
+      "“There is no cure yet for many devastating brain disorders,” says Shaoqin “Sarah” Gong, UW–Madison professor of ophthalmology and visual sciences and biomedical engineering and researcher at the Wisconsin Institute for Discovery. “Innovative brain-targeted delivery strategies may change that by enabling noninvasive, safe and efficient delivery of CRISPR genome editors that could, in turn, lead to genome-editing therapies for these diseases.”",
+      "CRISPR is a molecular toolkit for editing genes (for example, to correct mutations that may cause disease), but the toolkit is only useful if it can get through security to the job site. The blood-brain barrier is a membrane that selectively controls access to the brain, screening out toxins and pathogens that may be present in the bloodstream. Unfortunately, the barrier bars some beneficial treatments, like certain vaccines and gene therapy packages, from reaching their targets because in lumps them in with hostile invaders.",
+      "Injecting treatments directly into the brain is one way to get around the blood-brain barrier, but it’s an invasive procedure that provides access only to nearby brain tissue.",
+      "“The promise of brain gene therapy and genome-editing therapy relies on the safe and efficient delivery of nucleic acids and genome editors to the whole brain,” Gong says.",
+      "In a study recently published in the journal Advanced Materials, Gong and her lab members, including postdoctoral researcher and first author of the study Yuyuan Wang, describe a new family of nano-scale capsules made of silica that can carry genome-editing tools into many organs around the body and then harmlessly dissolve.",
+      "By modifying the surfaces of the silica nanocapsules with glucose and an amino acid fragment derived from the rabies virus, the researchers found the nanocapsules could efficiently pass through the blood-brain barrier to achieve brain-wide gene editing in mice. In their study, the researchers demonstrated the capability of the silica nanocapsule’s CRISPR cargo to successfully edit genes in the brains of mice, such as one related to Alzheimer’s disease called amyloid precursor protein gene.",
+      "Because the nanocapsules can be administered repeatedly and intravenously, they can achieve higher therapeutic efficacy without risking more localized and invasive methods.",
+      "The researchers plan to further optimize the silica nanocapsules’ brain-targeting capabilities and evaluate their usefulness for the treatment of various brain disorders. This unique technology is also being investigated for the delivery of biologics to the eyes, liver and lungs, which can lead to new gene therapies for other types of disorders."
+    ]
+  },
+  {
+    "id": 3,
+    "img": "https://www.cs571.org/s23/hw9/api/news/images/weather",
+    "title": "Weather station network to expand across Wisconsin, aiding farmers and others",
+    "tags": [
+      "science",
+      "climate"
+    ],
+    "body": [
+      "A new era for weather data in Wisconsin is on the horizon, thanks to an effort at the University of Wisconsin–Madison.",
+      "Wisconsin weather has become increasingly more unpredictable and extreme since the 1950s, posing challenges for farmers, researchers, and the public. But with the help of a statewide network of weather stations known as a mesonet, the state would be better equipped to deal with the future obstacles of a changing climate.",
+      "“Mesonets can guide everyday decision-making for the protection of crops, property, and people’s lives while also supporting research, extension and education,” says Chris Kucharik, professor and chair of the UW–Madison Department of Agronomy, as well as faculty member with the Nelson Institute for Environmental Studies. Kucharik is leading a major project to expand Wisconsin’s mesonet network with assistance from Mike Peters, director of UW–Madison’s Agricultural Research Stations.",
+      "Unlike many other agricultural states, Wisconsin has a minimal network of environmental monitoring stations. Almost half of the 14 weather and soil monitoring stations are at UW research stations, with the others concentrated in Kewaunee and Door counties on private fruit orchards. Data from these stations is currently hosted by Michigan State University’s mesonet.",
+      "Moving forward, these stations will move to a designated Wisconsin-based mesonet — called Wisconet — and the total number of stations will increase to 90 to better monitor all regions of the state. This effort is supported by a $2.3 million grant from the Wisconsin Rural Partnership, a U.S. Department of Agriculture-funded UW initiative, as well as $1 million from the Wisconsin Alumni Research Foundation. The expansion of this network is seen as a critical step in providing the highest quality data and information to those who need it.",
+      "Each station contains equipment to measure atmospheric and soil conditions. Instruments above ground measure wind speed and direction, humidity, air temperature, solar radiation, and liquid precipitation. Below ground, soil temperature and moisture levels are measured at certain depths.",
+      "Data from Wisconsin’s existing stations can currently be accessed on Michigan State’s “Enviro-weather” website but will be switched over to a Wisconsin-focused site — at wisconet.wisc.edu — sometime this summer. Kucharik and his team are working to build a simple, open-access site where users can not only view and download station data in real time but find practical guidance for using that data to make real-world decisions.",
+      "“Our growers rely on weather data to make important decisions on their farms on a daily basis. It affects when crops are planted, irrigated, and harvested,” says Tamas Houlihan, executive director of the Wisconsin Potato and Vegetable Growers Association (WPVGA). “So we’re very excited about utilizing this expanded mesonet in the near future.”",
+      "In February, Kucharik presented the mesonet plan at a WPVGA grower education conference. Andy Diercks, a Wisconsin farmer and frequent collaborator with UW–Madison’s College of Agricultural and Life Sciences and Division of Extension, was in the audience and liked what he heard.",
+      "“Many of our agronomic decisions are based on weather we’ve experienced, or weather we expect to arrive within the next few hours or days,” says Diercks. “It’s our goal to keep water, nutrients, and crop protectants where plants can use them, but we can’t succeed if we don’t fully understand the current conditions in the air and soil, and what to expect in the near future,” like an unforeseen heavy rain event washing away a recent fertilizer application.",
+      "The benefits the environmental mesonet will have for farmers is evident, but many others will benefit as well.",
+      "“The National Weather Service regards these networks as valuable because they’re able to verify — and lead to a better understanding of — extreme events,” says Kucharik, who earned his PhD at UW in atmospheric sciences. “A research-grade network of weather stations evenly spread across the state provides the NWS that many more data points.”",
+      "While call-in reports from people’s backyard weather stations are valuable, a mesonet can provide a more consistent and complete picture.",
+      "Mesonet data could also aid researchers, transportation departments, environmental managers, construction managers and anyone whose work is influenced by weather and soil conditions. There are even opportunities for these stations to help support K-12 education, as school grounds could be a potential home for environmental monitoring stations.",
+      "“It’s another way of getting more students connected to something that affects their everyday lives,” says Kucharik. “You can connect that science to all sorts of other fields in agriculture, forestry, and wildlife ecology.”",
+      "The installation of Wisconsin’s new mesonet stations is slated to start this summer and is expected be completed in fall of 2026."
+    ]
+  },
+  {
+    "id": 4,
+    "img": "https://www.cs571.org/s23/hw9/api/news/images/star",
+    "title": "Astronomers map Milky Way by light of exploding star",
+    "tags": [
+      "science"
+    ],
+    "body": [
+      "A huge flash of radiation from an explosion outside our galaxy that reached Earth on Oct. 9 went into the record books as the BOAT — the brightest of all time.",
+      "The gamma-ray burst, known as GRB 221009A, was described in a presentation today at a meeting of the American Astronomical Society’s High Energy Astrophysics Division by scientists from the gamma-ray-hunting Neil Gehrels Swift Observatory",
+      "The burst of radiation has given University of Wisconsin–Madison astronomers an unprecedented look at the structure of the Milky Way and a new understanding of the sources of subatomic particles zipping through our planet. It came at nearly the speed of light from the direction of the constellation Sagitta and was picked up by many telescopes and sensors in space and around the globe, likely marking the death of a star and the birth of a black hole.",
+      "“These explosions are among the brightest things we see in the universe, and so intense we can see them basically halfway across the universe,” says Sebastian Heinz, a UW–Madison astronomy professor who studies interstellar dust and the physics of black holes and X-rays in space — one product of gamma-ray bursts like GRB 221009A. “This one was so bright compared to other gamma-ray bursts we expect it will be the brightest of all time for the foreseeable future.”",
+      "There likely won’t be another gamma-ray burst as bright or close to Earth for another 10,000 years, he adds, and says it’s “another 10 times less likely” that a burst this bright will be similarly located in the plane of the Milky Way.",
+      "Both the gamma-ray burst’s intensity and its path toward Earth were illuminating, Heinz says. GRB 221009A’s electromagnetic radiation came at the planet like an arrow from just a few degrees above the plane of the disk-shaped Milky Way, skimming through clouds of the galaxy’s dust on the way.",
+      "“This dust is a key ingredient of what we call the interstellar medium,” says Heinz. “It’s critical in collecting metals and heavy elements that form planets, to determining the environment around a star. Understanding clouds of gas and dust is fundamental to understanding how stars and planetary systems are formed.”",
+      "The brightest concentration of X-rays arrived on a direct path from the explosion. Other rays, on slightly different initial paths, collided with motes of dust in clouds on the way and were bounced in the direction of Earth. Because they took a longer route, those bounced X-rays arrived minutes, hours and even days behind the initial flash from slightly different angles.",
+      "“We combined all this observational data from X-rays arriving behind the first flash, and they show up as rings around the bright point of the burst — new rings for each sizeable cloud of dust the gamma rays passed through,” Heinz says. “It’s incredible and beautiful to watch it come together. The rings are like this amazing fingerprint that encodes a whole bunch of information about the galaxy itself.”",
+      "Heinz used the geometry of the late-arriving X-rays and their lag behind the initial burst to translate the rings into unprecedentedly exact locations of dust far off in the Milky Way. Each ring pointed back toward a cloud of dust, revealing both distance from Earth and relative “height” above the disk of the galaxy for scores of dust clouds.",
+      "“It gives us this tool to map out where this dust is in the galaxy as a function of distance and even now to some degree as a function of height,” says Heinz, whose findings are part of a study published today in The Astrophysical Journal Letters. “We’ve mapped dust clouds with accuracy we couldn’t really have imagined as far out as 45,000 light years — some of them farther out from the galaxy than we would have anticipated.”",
+      "More analysis of the rays redirected by dust will help researchers better understand the shape and composition of the dust clouds and the Milky Way.",
+      "“We want to know how these far-off dust clouds relate to the distribution of gas and to where we see stars or don’t see stars, to where other things are happening and changing,” Heinz says. “There is an almost mind-boggling abundance of data that can tell us new things about the structure of the galaxy.”",
+      "Gamma-ray bursts have long been considered a possible source of neutrinos from beyond our galaxy, making GRB 221009A — as the BOAT — a prime potential source for the high-energy subatomic particles and thus also of great interest to scientists at the IceCube Neutrino Observatory.",
+      "“Not only was this GRB the brightest-ever detected in gamma rays, it also occurred in a region of the sky where IceCube is very sensitive,” says UW–Madison physics professor Justin Vandenbroucke, who helped lead an analysis of data from IceCube’s massive detector frozen in ice near the South Pole. These findings were also published today in The Astrophysical Journal Letters.",
+      "However, IceCube researchers found no appreciable uptick in neutrinos passing through Earth from space, meaning even the biggest burst of gamma rays seen by Earth’s most sensitive instruments didn’t come with an attendant bombardment of neutrinos.",
+      "“These upper limits, combined with the observations from many electromagnetic telescopes, give us more information about GRBs as potential particle accelerators,” says Jessie Thwaites, a UW–Madison graduate student in physics."
+    ]
+  },
+  {
+    "id": 5,
+    "img": "https://www.cs571.org/s23/hw9/api/news/images/goodall",
+    "title": "There’s still time for the planet, Goodall says, if we stay hopeful",
+    "tags": [
+      "climate",
+      "campus"
+    ],
+    "body": [
+      "At just 23 years old — still far from becoming one of the world’s most famous scientists, but very close in age to many who packed Shannon Hall Sunday night for her event in the Wisconsin Union Directorate’s Distinguished Lecture Series — Jane Goodall shipped out for Africa on her own dime, looking for an opportunity to study animals.",
+      "What she found in wild chimpanzees wasn’t unlike human behavior. She observed them using sticks as tools (to gather termites for a snack), holding hands, kissing, cleaning, grooming and maintaining strong familial bonds.",
+      "“Males competing for dominance, standing upright, swaggering, trying to look big and dangerous, might remind you of some male politicians,” said Goodall, now almost 90 and the veteran of six decades of chimpanzee research.",
+      "Goodall, an internationally renowned ethologist and conservationist, spoke to a 1,160-person capacity crowd at Memorial Union’s Shannon Hall.",
+      "It wasn’t easy for a young Goodall to get other scientists to take her findings seriously, she recalled. Her professors at the University of Cambridge, where she was working toward a doctorate in ethology, only accepted her observations on human-like animal behavior after they joined her in Africa and experienced the chimps firsthand.",
+      "“My professor said he learned more in two weeks in Africa than he had his whole career,” Goodall said.",
+      "One cannot study the natural world without noticing the impact humans have made, including climate change, according to Goodall. She experienced this with chimpanzees through direct observations of population decline, forest degradation, loss of biodiversity and more.",
+      "“When I flew over Gombe [a region in Tanzania], it used to be part of a great equatorial forest belt,” Goodall recalled. “That was in 1960. When I flew over in the late ’80s, it was a little island forest, surrounded by bare trees and bare hills, all the trees gone.”",
+      "As her passion for preserving our planet and its creatures has grown, Goodall’s focus has shifted to education, awareness, and conservation efforts. She discourages dwelling on “gloom and doom,” preferring a message of hope.",
+      "“Why do people rush to my lectures all over the world? If I go to speak, the tickets are sold out in record time. It’s because I talk about hope,” she says, from “amazing people doing incredible projects, nature’s resilience, the human brain beginning to solve some of the problems that we have created, and the energy and passion of youth.”",
+      "Goodall emphasized the pressing need for both individual and societal action to avoid environmental catastrophe.",
+      "“We’ve got this window of time, but it’s closing,” she said. “We really do have to take action to change the way we live, the practices of business, and very often politics. So, it seems very grim. But if everybody does their one bit to live with a lighter ecological footprint, then, with billions of people all doing their best, that’s going to make a difference.”",
+      "That would go a long way to heal the natural habitats of chimps as well, she said, much of which have been cut down by poverty-stricken people in order to survive.",
+      "“We need to help people to find ways of living without destroying the environment,” Goodall said.",
+      "The Jane Goodall Institute puts this sentiment into practice through an approach it calls Tacare, starting conservation efforts by first consulting local communities about their needs, and then collaboratively developing solutions not only for a sustainable environment, but for sustainable economies. Tacare programs are operating successfully with more than 80 villages across six African countries.",
+      "Goodall continues to work tirelessly to spread messages of conservation and hope, and she encouraged her audience to make both key parts of their lives.",
+      "“Never forget: Every single day you make some impact on the planet,” she said, with a goal of saving the world. “Together we can, together we will, together we must.”"
+    ]
+  },
+  {
+    "id": 6,
+    "img": "https://www.cs571.org/s23/hw9/api/news/images/investment",
+    "title": "Corporate investment could improve climate-tech innovation",
+    "tags": [
+      "climate"
+    ],
+    "body": [
+      "Corporate investments in climate-tech start-ups are a growing but overlooked aspect of energy innovation. According to a new report from Morgan Edwards, a professor at the La Follette School of Public Affairs at the University of Wisconsin–Madison, and her lead co-author at University of Maryland, these investments should be more fully considered as methods to advance climate technology. The report was published in the journal Joule on March 17.",
+      "Start-up companies have the potential to rapidly commercialize innovation, but they don’t always have the resources to make such ventures successful. Corporations, on the other hand, tend to have the resources that start-ups lack, like access to global markets and supply chains, manufacturing facilities and experience across the energy system.",
+      "While corporations are often strategic investors motivated by profits, they can also be motivated to expand existing business models, gain innovation insights, and meet environmental, social, and governance (ESG) commitments. When well-resourced corporations invest in start-ups, they can have an outsized influence on which start-ups succeed and grow, therefore shaping climate technology trajectories.",
+      "“We will need a whole host of new technologies to transition to a net-zero or net-negative emissions economy. Many innovations are currently in development but not yet mature,” says Edwards, who holds a joint position in the Nelson Institute Center for Sustainability and the Global Environment at UW–Madison. “Finding the right mix of corporate, private, and public investments will be critical to getting these technologies to market quickly and encouraging new innovations.”",
+      "In 2021, corporate investments in climate technology totaled over $11 billion, flowing to more than 460 start-ups, representing a quarter of all public and private investment dollars. This number has grown considerably since the Paris Agreement began in 2016 but still leaves a sizeable gap for governments to step in and incentivize investment in climate-tech that aligns with long-term climate and societal goals.",
+      "Kavita Surana, lead co-author with Edwards and a senior fellow at the Center for Global Sustainability at the University of Maryland, says this gap needs to be a larger point of emphasis moving forward to make necessary advances in climate technology.",
+      "“Corporations and the choices they make investing in climate-tech start-ups are particularly important as they tend to focus on technologies closer to reaching widespread adoption compared to public or other private investors. However, their role in climate change innovation has been overlooked to this point in our efforts to mitigate the effects of climate change,” says Surana, who is also an associate faculty member at the Complexity Science Hub Vienna.",
+      "The paper’s team of researchers investigated a dataset of 6,996 climate-tech start-ups from North America, Europe, and Israel that were founded between 2005 and 2021. They also looked at 9,749 investors who participated in 33,698 investment deals.",
+      "Among the paper’s findings, the research team observed that corporate investors are most active in later investment stages when technologies are closer to market deployment.",
+      "They also found that corporate investment in climate-tech start-ups is highly concentrated, with a few large corporations like Shell, Alphabet, and Samsung playing an outsized role. Between 2016 and 2021, these large companies each invested in over 25 climate-tech start-ups. A handful of companies, including Amazon, Ford, and Alphabet, each invested over $1 billion.",
+      "Investments were also concentrated in certain technologies. For example, fuel cell and hydrogen technologies received a much higher percentage of corporate investment than other sectors like marine and hydropower, nuclear, and biomass generations. These sectors also receive little funding from other private sources, suggesting that public investment may be necessary to fill the gap."
+    ]
+  },
+  {
+    "id": 7,
+    "img": "https://www.cs571.org/s23/hw9/api/news/images/outdoors",
+    "title": "Researching Wisconsin’s great outdoors",
+    "tags": [
+      "science",
+      "climate"
+    ],
+    "body": [
+      "Outdoor recreation is synonymous with the Wisconsin experience. From sunny summer days on the lake to crisp fall mornings hunting in the woods and brisk hikes to campsites along the shores of the Apostle Islands National Lakeshore, there’s a lot to love about the state’s natural ecosystems. Scientists at the University of Wisconsin–Madison are making sure the state’s lakes, forests and wildlife remain for future generations to enjoy.",
+      "Grace Wilkinson and Timothy Van Deelen are just two of the many researchers at UW–Madison putting their love for the outdoors to work to keep Wisconsin ecosystems healthy for years to come.",
+      "Wilkinson, a professor at the Center for Limnology in the College of Letters & Science, grew up surrounded by the joys of the Great Lakes region. She remembers noticing at an early age that sometimes while swimming in a lake, her toes would kick down into much colder water, a startling phenomenon she now knows is called stratification.",
+      "“I was always fascinated about what was going on below the waterline,” Wilkinson says. “That fascination sort of morphed into using my passion to try to push the dial forward on science to be better stewards of these ecosystems.”",
+      "By 2010, she was conducting whole lake experiments as a graduate student alongside other UW–Madison limnologists.",
+      "Nothing in an ecosystem happens in a vacuum, and Wilkinson says whole lake experiments offer the chance to zoom out and consider a much bigger picture.",
+      "“Lakes are connected to the landscape around them,” she says. “They are the integrators of everything that’s happening in the watershed.”",
+      "As the birthplace of North American limnology, UW–Madison has a rich history of expanding scientific understanding of lakes and other inland waters. In 1950, Professor Arthur Hasler realized that whole lake experiments presented a powerful tool and secured for study the isolated and undeveloped Peter and Paul lakes, offering scientists at UW–Madison and elsewhere unique opportunities to understand lakes as integrated systems.",
+      "Now, Wilkinson and her collaborators are using these same lakes to conduct experiments to help improve methods of predicting and preventing harmful algal blooms in lakes across the state.",
+      "Harmful algal blooms happen when lakes experience increases in nutrients like nitrogen and phosphorus, which can come from a variety of sources such as stormwater runoff, nearby farms and even industry. Excess nutrients in lakes can provide organisms called phytoplankton more fuel to multiply exponentially.",
+      "This can set off a chain reaction in the lake, where an excess of phytoplankton eventually leads to a depletion of available oxygen in the water, allowing some invasive fish species to thrive over native species. This means popular recreational species may face population declines.",
+      "Some blooms also consist of certain kinds of phytoplankton called cyanobacteria, which may release toxins that can be harmful to people and other animals who may be swimming or otherwise enjoying the water.",
+      "A lake that experiences frequent harmful algal blooms is also smelly, scummy and much less appealing to visitors.",
+      "“The tricky thing about these blooms is you can’t see them before they’re happening,” Wilkinson says. Her lab is looking for statistical indicators that would serve as early warning signs a lake may soon experience a harmful algal bloom.",
+      "The data they’re collecting can be used to build a framework for lake managers to look out for blooms and implement intervention strategies across the state. They especially hope their work will help support the busy lake managers working to keep people safe and the ecosystem resilient.",
+      "“In Wisconsin, part of our identity as a state are these freshwater lakes and our love for them,” Wilkinson says. “We care about preserving these systems, not just because of the economic benefits or the things that we get from them, but because they are culturally very important.”",
+      "Every fall, Tim Van Deelen purchases a deer hunting license and soaks in the outdoors. He’s one of the hundreds of thousands of Wisconsinites who participate in the tradition every year. At the end of the day, he — like every successful Wisconsin deer hunter — reports his harvest to the Wisconsin Department of Natural Resources.",
+      "“Getting data from hunters on hunted species has been a long-established tradition in Wisconsin going back to the 1950s,” he says.",
+      "That data remains especially relevant to Van Deelen, who is also a professor of forest and wildlife ecology at UW–Madison’s College of Agriculture and Life Sciences. He studies population dynamics of mammals in the Great Lakes region, especially deer.",
+      "White-tailed deer are an iconic species in Wisconsin and have been an important food source for generations. Still, deer can pose challenges to landowners and farmers, and where their numbers outpace their habitat, they can cause ecological damage as well. They can overgraze on understory plants in forests and affect the biodiversity of other species.",
+      "Hunting is one of the best ways, Van Deelen says, to help maintain deer populations at ecosystem-healthy levels. By collecting data on deer population dynamics around the state, his work helps wildlife managers refine their own management tools and inform hunting policy. Currently, he and his team are working with land managers to connect hunters to areas where deer populations are negatively affecting habitat health.",
+      "“You have to really understand how the population responds to hunting,” he says. “From kind of a general interest in population dynamics, I get drawn into those questions of applied research.”",
+      "Hunting could also provide opportunities to mitigate chronic wasting disease, a fatal neurological disease that spreads among deer and related species.",
+      "“We believe that reducing the deer population would help reduce the spread of the disease,” Van Deelen says. “Having high deer harvest rates in CWD areas would intercept some of the animals that might be infected, therefore you prevent a new spot from becoming infected.”",
+      "Van Deelen also studies native wildlife populations in the iconic Apostle Islands, where he gains insights into how animals and their interactions with one another affect competition for resources and beneficial communities that may exist between species on the islands.",
+      "In national park lands like the Apostle Islands National Lakeshore, visitors go with high hopes of seeing native wildlife. Van Deelen works with the National Park Service to give them an idea of what the wildlife communities’ dynamics are so they can strive to cultivate healthy natural biodiversity.",
+      "“People love to see wildlife, and they want to know that the wildlife are being managed sustainably,” he says."
+    ]
+  },
+  {
+    "id": 8,
+    "img": "https://www.cs571.org/s23/hw9/api/news/images/scholz",
+    "title": "Scholz to depart for University of Oregon presidency",
+    "tags": [
+      "campus"
+    ],
+    "body": [
+      "UW-Madison Provost John Karl Scholz Monday was named as the new president of the University of Oregon in Eugene, Ore.",
+      "“It’s a wonderful opportunity to help lead one of America’s leading research universities, with broad strengths across the arts and humanities, social sciences, and physical, biological and mathematical sciences, along with several excellent professional schools,” says Scholz, who will begin in the new role on July 1. “It has a well-deserved reputation for innovation and excellence.”",
+      "Scholz succeeds Michael Schill, who left Oregon to lead Northwestern University following Rebecca Blank’s withdrawal from that role related to her cancer diagnosis. One of Scholz’s three daughters is currently a PhD student at Oregon, studying volcanology, the science of volcanoes.",
+      "“We are thrilled and honored to welcome Karl Scholz to Oregon,” says Ginevra Ralph, UO Board of Trustees Chair. “He is an inspiring, committed leader with clear passion for public higher education. His depth of leadership experience as a provost and dean at a leading public university stood out. He possesses all the qualities to take the University of Oregon into its next ambitious era.”",
+      "Scholz became UW–Madison provost in August 2019, having previously served as dean of the College of Letters & Science. A search for a new UW–Madison provost is currently under way, with finalists’ visits planned after Spring Break.",
+      "Chancellor Jennifer Mnookin says Scholz will be missed by many across campus for his steady and innovative leadership.",
+      "“I’m delighted for Karl and this new opportunity for him to lead a wonderful university that has a tremendous amount of momentum behind it,” says Mnookin. “We’ll miss him for all the ways that he has contributed over many years, including, above all, his warm presence and thoughtful leadership.”",
+      "A native of Nebraska, Scholz graduated from Carleton College in Northfield, Minn., and earned his doctorate from Stanford University.",
+      "He joined the UW–Madison Economics Department in 1988. From 1990–91 he was a senior staff economist at the Council of Economic Advisors and from 1997–98 he served as deputy assistant secretary for tax analysis at the U.S. Treasury Department.",
+      "A former director of UW–Madison’s Institute for Research on Poverty, his studies include work on household saving, the earned income tax credit and low-wage labor markets, financial barriers to higher education and bankruptcy laws.",
+      "During his tenure as L&S dean, he launched SuccessWorks, a career initiative that helps undergraduates identify career opportunities early, gain practical experience and highlight the value of their L&S education. Also in the college, he implemented changes in the L&S budget model to support teaching/learning and research enhancing fiscal transparency, invested additional resources in student advising, and expanding summer courses and professional master’s degrees.",
+      "While provost, Scholz helped navigate the complex academic side of the pandemic, focusing on the safety of students, faculty and staff while working toward an appropriate return to in-person learning. Under his leadership, campus continues to diversify its student body and faculty, while enrolling some of the most talented classes in its history. He helped create the Center for Teaching, Learning and Mentoring, which will further enhance instruction across campus.",
+      "Scholz says that there are many things that he will miss about Madison, but the most important is the dedication of the thousands of faculty and staff members who help the university fulfill its teaching, research and outreach mission.",
+      "“This is a remarkable place and I am sad to leave it,” he says. “UW-Madison is full of amazing people who inspire me every day.”"
+    ]
+  },
+  {
+    "id": 9,
+    "img": "https://www.cs571.org/s23/hw9/api/news/images/corn",
+    "title": "Students braid corn in Oneida tradition",
+    "tags": [
+      "campus"
+    ],
+    "body": [
+      "Students were taught how to braid corn in the traditional Oneida way during an event presented by Wunk Sheek, a UW–Madison Native American student organization, and held at the Indigenous Student Center on Nov. 14. The corn was Bear Island Flint Corn originally from Leech Lake in northern Minnesota. Once the corn is picked, the husks are pulled back to reveal the kernels. The husks are then braided to form a rope of corn where the cobs are hung to dry. The corn can be boiled, or milled into flour, in various dishes. The event was part of UW–Madison’s Native November programming."
+    ]
+  },
+  {
+    "id": 10,
+    "img": "https://www.cs571.org/s23/hw9/api/news/images/imbler",
+    "title": "Sabrina Imbler to visit campus as spring science journalist in residence",
+    "tags": [
+      "campus",
+      "science"
+    ],
+    "body": [
+      "Sabrina Imbler has written about a mother octopus who spent 53-months brooding on her eggs, a transitional fish fossil the internet wishes had stayed in the water and a clutch of eggs that helped solve a century-old leaf insect mystery. Imbler, a chapter book author and science journalist, is fascinated by weird, wonderful creatures, and this spring, as the Sharon Dunwoody Science Journalist in Residence, Imbler will bring their passion and fascination to the University of Wisconsin–Madison.",
+      "From March 29-31, Imbler (who uses they/them pronouns) will be on campus visiting classrooms to engage with students, meet with researchers on campus and participate in a public panel discussion.",
+      "The panel, entitled “Wonder, Weirdness and Writing about Animals,” will take place March 30 from 6:30-8 p.m. in the Bea Christensen room of the Goodman Community Center, located at 214 Waubesa Street in Madison. A virtual option is also available via Facebook Live at this link.",
+      "Imbler will be joined in conversation by Stacy Forster, a School of Journalism and Mass Communication teaching faculty member with more than a decade of reporting experience, and Mary Magnuson, a graduate student and former American Association for the Advancement of Science Mass Media Fellow, who studies urban canids like coyotes and foxes.",
+      "The panelists will discuss why humans are drawn to studying and reading about animals, approaches to writing about animals, how narrative is used to strengthen science journalism and many of the discoveries and behind-the-scenes stories behind studying and covering creatures.",
+      "Imbler’s work may have caught your attention back in 2021 thanks to this catchy New York Times headline, “When an Eel Climbs a Ramp to Eat Squid From a Clamp, That’s a Moray.” Or maybe you’ve read their latest book, “How Far the Light Reaches: A Life in Ten Sea Creatures,” which weaves the wonders of marine biology with Imbler’s own personal reflections. Whether they’re sharing a new scientific study or expanding into a narrative essay, Imbler’s unique voice and knack for connecting weird animals to the human experience hooks readers.",
+      "Imbler is currently a staff writer at Defector, an employee-owned sports and culture website, where they cover the creature beat. Previously, Imbler has written for The New York Times as a reporting fellow on the science and health desk and for The Atlantic.",
+      "The UW–Madison Science Journalist in Residence program was founded in 1986 and is hosted by the School of Journalism and Mass Communication and University Communications. It is now part of the Sharon Dunwoody Journalist in Residence program at UW–Madison. The late Dunwoody, a professor of journalism at UW–Madison, co-founded the Science Journalist in Residence program with emeritus Director of Research Communications, Terry Devitt.",
+      "The program has hosted national science writers nearly every semester, in-person and virtually, including Radiolab’s Latif Nasser, Scientific American’s editor in chief Laura Helmuth, biologist-turned-science journalist Michelle Nijhuis and Pulitzer Prize-winning Atlantic reporter Ed Yong."
+    ]
+  }
+]
